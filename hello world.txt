@@ -3,4 +3,8 @@ hello world
 03
 撤销测试
 分支00
+<<<<<<< HEAD
 feature100
+=======
+feature00
+>>>>>>> feature1
